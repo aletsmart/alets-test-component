@@ -1,6 +1,6 @@
 {
   "name": "alets-test-component",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "main": "dist/alets-test-component.umd.js",
   "module": "dist/alets-test-component.esm.js",
